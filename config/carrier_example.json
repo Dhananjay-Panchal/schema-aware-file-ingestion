@@ -1,0 +1,13 @@
+{
+  "columns": {
+    "policy_id": ["policy number", "policy no", "contract id"],
+    "member_name": ["member name", "customer name", "insured"],
+    "payment_date": ["paid date", "statement date", "payment date"],
+    "payment_amount": ["commission", "commission earned", "payment"],
+    "agent_id": ["writing agent", "agent id", "producer number"],
+    "payment_detail": ["transaction type", "commission action", "detail"],
+    "carrier": ["carrier", "company"]
+  },
+  "required": ["policy_id", "payment_date", "payment_amount"]
+}
+
