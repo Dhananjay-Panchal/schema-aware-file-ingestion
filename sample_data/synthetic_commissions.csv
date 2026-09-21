@@ -1,0 +1,8 @@
+Policy Number,Member Name,Paid Date,Commission,Writing Agent,Transaction Type,Carrier
+00012345,Avery Morgan,2026-01-05,"$125.50",AG-001,Initial,Northwind Health
+00012346,Jordan Lee,01/06/2026,"$80.00",AG-002,Renewal,Northwind Health
+00012346,Jordan Lee,01/06/2026,"$82.25",AG-002,Renewal,Northwind Health
+00012347,Sam Rivera,2026-01-07,"($25.00)",AG-003,Chargeback,Contoso Benefits
+,Taylor Kim,2026-01-08,"$42.00",AG-004,Initial,Contoso Benefits
+00012349,Casey Brooks,not-a-date,"$64.00",AG-005,Initial,Contoso Benefits
+
